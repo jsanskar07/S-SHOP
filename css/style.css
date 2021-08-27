@@ -1,0 +1,65 @@
+.logo1{
+    font-weight: bold;
+    font-size: 2.5rem;
+    padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+}
+#logo{
+    color: red;    
+}
+.navbar{
+    padding-left: 1rem ;
+    padding-right: 1rem ;
+}
+.height{
+    margin-top: auto;
+    height: 45rem;    
+}
+.size{
+    height: 25rem;
+    width: 100%;
+}
+.center{
+    text-align:center;
+}
+.viewm{
+    background-image: linear-gradient(to bottom right,#f5f7fa,#b8c6db);
+}
+.vieww{
+    background-image: linear-gradient(to bottom right,#ffffff,#e96196);
+}
+.viewg{
+    background-image: linear-gradient(to bottom right,#fb7ba2,#fce043);    
+}
+.viewb{
+    background-image: linear-gradient(to bottom right,#eec0c6,#7ee8fa);
+}
+#kids-background{
+    font-size: xx-large;
+    font-weight: bold;
+    background-image: url('https://img.freepik.com/free-psd/abstract-background_69089-33.jpg?size=626&ext=jpg');
+    margin-bottom: 0%;
+    padding:2.5rem ;
+}
+#adult-background{
+    font-size: xx-large;
+    font-weight: bold;
+    background-image: url("https://thumbs.dreamstime.com/z/gentle-blue-purple-pink-shades-watercolor-background-vintage-card-retro-template-beautiful-fantasy-colorful-aquarelle-148116887.jpg");
+    margin-bottom: 0%;
+    padding:2.5rem ;
+}
+.align{
+    margin-top: 2.5rem;    
+}
+#footer{
+    margin-top: 5rem;       
+}
+.pages{
+    font-size: x-small;
+    margin-top: 1.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+#last{    
+    font-size: x-small;    
+}
